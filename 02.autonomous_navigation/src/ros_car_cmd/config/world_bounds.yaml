@@ -1,0 +1,13 @@
+# Waypoint Params
+current_waypoint: [0.0, 0.0]
+last_waypoint: [-1.0, -1.0]
+next_waypoint: [2.0, 1.5]
+alignment_tolerance: 0.2
+arrival_threshold: 0.3
+
+# World bounds
+world_bounds:
+  x_min: -3.3
+  x_max: 3.3
+  y_min: -3.3
+  y_max: 3.3

@@ -1,0 +1,13 @@
+# Linear and Angular speed
+linear_speed: 0.3
+angular_speed: 0.5
+
+# PID params
+kp_angular: 1.0
+ki_angular: 0.0
+kd_angular: 0.5
+
+# Scanner params (front_angle_width in degrees, converted to radians by the node)
+front_angle_width: 30
+obstacle_threshold: 0.3
+wall_follow_distance: 0.7
