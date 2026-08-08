@@ -1,0 +1,5 @@
+string secret_key
+---
+float64[] last_waypoint
+float64[] current_waypoint
+float64[] next_waypoint
